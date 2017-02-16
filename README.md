@@ -51,3 +51,20 @@ Logging should be possible through CLI option `--logging <path_to_log_file>`
     * Fail validation 2;
     * Fail validation 3 & 4;
 
+## Usage
+
+```
+python .\bom_parser.py
+usage: bom_parser.py [-h] [--strict] [--logging FILE] [--log-level LEVEL] BOM
+
+Process BOM lists
+
+positional arguments:
+  BOM                Text file with list of BOM files
+
+optional arguments:
+  -h, --help         show this help message and exit
+  --strict           Stop on first error
+  --logging FILE     Enable logging to specified file
+  --log-level LEVEL  Specifies logging level. Default is WARNING
+```
