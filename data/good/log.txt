@@ -1,0 +1,11 @@
+2017-02-16 11:53:23,934 - bom_parser.py:134 - [INFO] - Start script with arguments Namespace(bom='.\\data\\good\\BOM_list.txt', log_level='DEBUG', logging='.\\data\\good\\log.txt', strict=False)
+2017-02-16 11:53:23,934 - bom_parser.py:141 - [INFO] - Parse BOM list='.\data\good\bom1.txt'
+2017-02-16 11:53:23,934 - bom_parser.py:39 - [DEBUG] - Copy file from files\kDays.dll to output\kDays.dll
+2017-02-16 11:53:23,935 - bom_parser.py:39 - [DEBUG] - Copy file from files\AliceStart.ini to output\AliceStart.ini
+2017-02-16 11:53:23,935 - bom_parser.py:58 - [DEBUG] - Append patch to output\AliceStart.ini
+2017-02-16 11:53:23,936 - bom_parser.py:141 - [INFO] - Parse BOM list='.\data\good\bom2.txt'
+2017-02-16 11:53:23,936 - bom_parser.py:39 - [DEBUG] - Copy file from files\save.zip to output\save.zip
+2017-02-16 11:53:23,936 - bom_parser.py:39 - [DEBUG] - Copy file from files\readme.txt to output\readme.txt
+2017-02-16 11:53:23,937 - bom_parser.py:58 - [DEBUG] - Append patch to output\readme.txt
+2017-02-16 11:53:23,937 - bom_parser.py:39 - [DEBUG] - Copy file from files\Version.txt to output\Version.txt
+2017-02-16 11:53:23,938 - bom_parser.py:58 - [DEBUG] - Append patch to output\Version.txt

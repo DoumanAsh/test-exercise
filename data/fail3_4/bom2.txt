@@ -1,0 +1,4 @@
+Location	Destination	Md5	Patching
+../../files/save.zip	../../output/save.zip	037e218c1857bf012cdf0be4a50da9bc
+../../files/Version.txt	../../output/readme.txt	1757a8186cb62cbc84c0306b7da3ce03	DUMMY_DATA
+../../files/Version.txt	../../output/Version.txt	1757a8186cb62cbc84c0306b7da3ce03	DUMMY_DATA

@@ -1,0 +1,10 @@
+2017-02-16 11:53:14,509 - bom_parser.py:134 - [INFO] - Start script with arguments Namespace(bom='.\\data\\fail1\\BOM_list.txt', log_level='DEBUG', logging='.\\data\\fail1\\log.txt', strict=False)
+2017-02-16 11:53:14,509 - bom_parser.py:141 - [INFO] - Parse BOM list='.\data\fail1\bom1.txt'
+2017-02-16 11:53:14,509 - bom_parser.py:39 - [DEBUG] - Copy file from files\kDays.dll to output\kDays.dll
+2017-02-16 11:53:14,510 - bom_parser.py:106 - [ERROR] - BOM entry='BOM(location=files\non-existent.ini, dest=output\AliceStart.ini, md5=a7d0b69d3d9d7b62e8a672eab6508112, patch=DUMMY_DATA)' isn't valid!
+2017-02-16 11:53:14,510 - bom_parser.py:141 - [INFO] - Parse BOM list='.\data\fail1\bom2.txt'
+2017-02-16 11:53:14,511 - bom_parser.py:39 - [DEBUG] - Copy file from files\save.zip to output\save.zip
+2017-02-16 11:53:14,584 - bom_parser.py:39 - [DEBUG] - Copy file from files\readme.txt to output\readme.txt
+2017-02-16 11:53:14,585 - bom_parser.py:58 - [DEBUG] - Append patch to output\readme.txt
+2017-02-16 11:53:14,585 - bom_parser.py:39 - [DEBUG] - Copy file from files\Version.txt to output\Version.txt
+2017-02-16 11:53:14,586 - bom_parser.py:58 - [DEBUG] - Append patch to output\Version.txt

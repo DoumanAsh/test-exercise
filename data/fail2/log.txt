@@ -1,0 +1,11 @@
+2017-02-16 11:53:07,656 - bom_parser.py:134 - [INFO] - Start script with arguments Namespace(bom='.\\data\\fail2\\BOM_list.txt', log_level='DEBUG', logging='.\\data\\fail2\\log.txt', strict=False)
+2017-02-16 11:53:07,656 - bom_parser.py:141 - [INFO] - Parse BOM list='.\data\fail2\bom1.txt'
+2017-02-16 11:53:07,656 - bom_parser.py:39 - [DEBUG] - Copy file from files\kDays.dll to output\kDays.dll
+2017-02-16 11:53:07,657 - bom_parser.py:39 - [DEBUG] - Copy file from files\AliceStart.ini to output\AliceStart.ini
+2017-02-16 11:53:07,657 - bom_parser.py:58 - [DEBUG] - Append patch to output\AliceStart.ini
+2017-02-16 11:53:07,658 - bom_parser.py:141 - [INFO] - Parse BOM list='.\data\fail2\bom2.txt'
+2017-02-16 11:53:07,658 - bom_parser.py:106 - [ERROR] - BOM entry='BOM(location=files\save.zip, dest=output\save.zip, md5=037e218c1857bf012cdf0be4a50da9b1c, patch=None)' isn't valid!
+2017-02-16 11:53:07,660 - bom_parser.py:39 - [DEBUG] - Copy file from files\readme.txt to output\readme.txt
+2017-02-16 11:53:07,660 - bom_parser.py:58 - [DEBUG] - Append patch to output\readme.txt
+2017-02-16 11:53:07,660 - bom_parser.py:39 - [DEBUG] - Copy file from files\Version.txt to output\Version.txt
+2017-02-16 11:53:07,661 - bom_parser.py:58 - [DEBUG] - Append patch to output\Version.txt
